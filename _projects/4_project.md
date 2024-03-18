@@ -1,8 +1,8 @@
 ---
-layout: page
 title: project 4
+layout: page
 description: another without an image
-img:
+img: 
 importance: 3
 category: fun
 ---
